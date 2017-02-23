@@ -1,0 +1,130 @@
+h1{
+	color:white;
+	/*text-align:center;*/
+	padding-left:40px;
+}
+
+h5{
+	color:white;
+	/*text-align:center;*/
+	padding-left:40px;
+}
+
+body{
+
+	font-family: Calibri;
+}
+
+h3{
+	
+}
+
+li{
+	list-style:none;
+	padding:10px;
+	margin-right: 10px;
+	color:white;
+	border-style: solid;
+	border-width: 3px;
+	border-color:white;
+	border-radius:5px;
+}
+
+a{
+	 text-decoration: none;
+}
+
+.heaad{
+	background-color:red;
+	padding-bottom:3px;
+	padding-top:1px;
+}
+
+.foot{
+	background-color:red;
+	padding:6px;
+	padding-left:20px;
+	color:white;
+	font-weight: bold;
+}
+
+.flexi{
+	display:flex;
+}
+
+.surligne{
+	background-color:yellow;
+}
+
+#lienlol{
+	color:blue;
+}
+
+.geck{
+	background-color:white;
+	color:black;
+	margin:left;
+	margin-left:20px;
+	width:55%;
+	padding:10px;
+	padding-top:1px;
+	border-color:red;
+	border-style: solid;
+	border-width: 4px;
+	float:left;
+}
+
+h6{
+	margin:0px;
+}
+
+table
+{
+    border-collapse: collapse; 
+}
+td
+{
+    border: 1px solid black;
+    padding:5px;
+    text-align:center;
+}
+
+.geck2{
+	background-color:white;
+	color:black;
+	margin:right;
+	margin-left:65%;
+	margin-top:20px;
+	width:30%;
+	padding:10px;
+	padding-top:1px;
+	border-color:red;
+	border-style: solid;
+	border-width: 4px;
+}
+
+.geck3{
+	background-color:white;
+	color:black;
+	margin:right;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:10px;
+	padding-top:1px;
+	border-color:red;
+	border-style: solid;
+	border-width: 4px;
+}
+
+.pave{
+}
+
+.container{
+	margin:auto;
+	height:350px;
+}
+
+.container2{
+	margin:auto;
+	height:400px;
+}
