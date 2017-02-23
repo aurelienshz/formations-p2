@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+.red {
+    width: 300px;
+    margin: 30px auto;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 20px;
+}
